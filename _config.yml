@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 github: [metadata]
 title: Clubdeck
-email: clubdeckapp@gmail.com
+email: hello@clubdeck.app
 description: >- # this means to ignore newlines until "baseurl:"
   Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows. Made with ❤️, 🍣 and 🍻 in Barcelona & Paris.
   Clubdeck is not affiliated with Clubhouse.
