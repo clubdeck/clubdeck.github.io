@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ClubdeckApp
 github_username:  
 logo: 'img/icon.svg'
+google_analytics: 'G-HZL50YC0JV'
 
 # Build settings
 theme: jekyll-theme-minimal

@@ -10,7 +10,7 @@ brand new way to browse, use, and enjoy Clubhouse on your desktop.
 
 # What can you do with Clubdeck?
 
-Pretty much the same things that you would do on the App, albeit on a much bigger screen and with a different approach when it comes to
+Pretty much the same things you would do on the App, but on a much bigger screen and with a different approach when it comes to
 UX. Clubdeck is very useful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC.
 
 # I want it!
@@ -19,11 +19,7 @@ No problem, we understand 😋
 
 You can download Cludeck below:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-# Installation
-
-Here we explain specific issues on Mac and / or Windows.
+| [![Download for macOS](/img/macOS.svg)](/release/Clubdeck-1.0.0.dmg) | ![Download for windows](/img/Windows.svg) |
 
 # Stay in touch
 
