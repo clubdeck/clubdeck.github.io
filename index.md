@@ -4,7 +4,7 @@ layout: default
 
 # Clubdeck : CH meets desktop
 
-To start with: Clubdeck is **not** affiliated with Clubhouse.
+Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your desktop.
 
@@ -23,7 +23,7 @@ You can download Cludeck below:
 
 # Stay in touch
 
-You can contact us at <clubdeckapp [at] gmail.com> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
+For any questions or feature requests you can contact us at <hello [at] clubdeck.app> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
 
 # Release notes
 
