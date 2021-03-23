@@ -22,7 +22,6 @@ title: Clubdeck
 email: hello@clubdeck.app
 description: >- # this means to ignore newlines until "baseurl:"
   Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows. Made with ❤️, 🍣 and 🍻 in Barcelona & Paris.
-  Clubdeck is not affiliated with Clubhouse.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ClubdeckApp

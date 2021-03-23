@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font: 16px/1.7 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+h1 {
+  font-size:32px !important;
+}
+
+h1, h2, h3 {
+  line-height:1.2 !important;
+  color: rgb(55,61,68) !important;
+}
+
+a {
+  color: rgb(77,157,221) !important;
+}

@@ -21,6 +21,10 @@ You can download Cludeck below:
 
 | [![Download for macOS](/img/macOS.svg)](/release/Clubdeck-1.0.0.dmg) | ![Download for windows](/img/Windows.svg) |
 
+# Permissions
+
+The app will ask you for permissions to use your microphone (to be able to join a room) and to display notifications.
+
 # Stay in touch
 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
@@ -29,4 +33,4 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.0.0
 
-* initial release 🎉
+* Initial release 🎉
