@@ -21,7 +21,7 @@ No problem, we understand 😋
 
 You can download Cludeck below:
 
-| [![Download for macOS](/img/macOS.svg)](/release/Clubdeck-1.0.0.dmg) | ![Download for windows](/img/Windows.svg) |
+| <a href="/" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="/" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
