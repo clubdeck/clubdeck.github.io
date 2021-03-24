@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.0.0.exe
+    sha512: PXav3yiP9URAXnJSf3xRm8Jq10rK/UhA14ROY56ZEh8Er3h9JdZIVCn4IbVy7J/0EQMVofbINrCa/c0odvtoBg==
+    size: 76354913
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.0.0.exe
+sha512: PXav3yiP9URAXnJSf3xRm8Jq10rK/UhA14ROY56ZEh8Er3h9JdZIVCn4IbVy7J/0EQMVofbINrCa/c0odvtoBg==
+releaseDate: '2021-03-24T14:49:04.463Z'
