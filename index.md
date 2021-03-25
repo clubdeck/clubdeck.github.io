@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Clubdeck : 👋Clubhouse ❤️ desktop
+# 👋Clubhouse ❤️ desktop
 
 Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
