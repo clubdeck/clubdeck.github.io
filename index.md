@@ -17,7 +17,9 @@ UX. Clubdeck is very useful to browse rooms, find interesting events, clubs and 
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CajVhgfknMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # I want it!
 
