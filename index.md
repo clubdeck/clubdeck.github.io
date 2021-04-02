@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your desktop.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.1.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.1.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.2.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # What can you do with Clubdeck?
 
@@ -27,7 +27,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.1.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.1.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.2.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -38,6 +38,11 @@ The app will ask you for permissions to use your microphone (to be able to join 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
 
 # Release notes
+
+## Version 1.1.2
+
+* Allow users to start a room directly from their own events list
+* Fixed a bug where it was not possible to open / make a room social
 
 ## Version 1.1.1
 
