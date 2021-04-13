@@ -13,7 +13,7 @@ brand new way to browse, use, and enjoy Clubhouse on your desktop.
 # What can you do with Clubdeck?
 
 Pretty much the same things you would do on the App, but on a much bigger screen and with a different approach when it comes to
-UX. Clubdeck is very useful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC. You can even record a Clubhouse room in one click, stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators.
+UX. Clubdeck is very useful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC. You can even stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
 
