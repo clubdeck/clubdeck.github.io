@@ -34,6 +34,10 @@ You can download Clubdeck below:
 
 The app will ask you for permissions to use your microphone (to be able to join a room) and to display notifications.
 
+# Privacy
+
+We **do not** access any of your personal data.
+
 # Stay in touch
 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
