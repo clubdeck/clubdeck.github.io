@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# 👋Clubhouse ❤️ desktop
+# 👋Clubhouse ❤️ desktop, available on Mac and PC
 
 Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
-brand new way to browse, use, and enjoy Clubhouse on your desktop.
+brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.7.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # What can you do with Clubdeck?
 
 Pretty much the same things you would do on the App, but on a much bigger screen and with a different approach when it comes to
-UX. Clubdeck is very useful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC. You can even stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators.
+user experience. Clubdeck is very powerful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC. You can even stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators. You can even plug a custom microphone or soundcard.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
 
@@ -28,7 +28,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.7.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -44,31 +44,40 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 # Release notes
 
+## Version 1.1.8
+
+* Event templates! You can now save a template of a recurring event for later reuse
+* View what rooms your online friends are listening to, and join them in one click
+* Online friends tab is now refreshed automatically
+* Added Telegram chat option
+* Fixed notifications when several people follow at the same time
+* Fixed sound glitch on first room join on Windows
+
 ## Version 1.1.7
 
 * View and join upcoming club events directly from club view
-* Add phone indicator when a speaker is on the phone
+* Added phone indicator when a speaker is on the phone
 * View online clubs & friends, with ability to start a private room
 * You can now share a user link / search by user link
-* Add actionable notifications to system tray and notifications list
+* Added actionable notifications to system tray and notifications list
 * Added calendar icon to "more" events button to make its purpose clearer
-* Add "Leave club" action for club members
-* Add sound quality selector
+* Added "Leave club" action for club members
+* Added sound quality selector
 * Improve performance in crowded rooms
-* Fix erroneous message when multiple users are mentionned in a notification
+* Fixed erroneous message when multiple users are mentionned in a notification
 * Fixed occasionnal mute / unmute bug
 
 ## Version 1.1.6
 
 * Allow users to update their profile picture
 * Keyboard shortcuts in a room (CTR+r to raise / unraise hand, CTRL+m to mute/unmute)
-* Fix random bug in notifications
-* Fix bug when Clubhouse not performing as it should
+* Fixed random bug in notifications
+* Fixed bug when Clubhouse not performing as it should
 
 ## Version 1.1.5
 
-* Add restream.io integration: you can now restream your CH room to 30+ social platforms in one click [Mac only, sorry windows users!]
-* Add volume slider for sound effects
+* Added restream.io integration: you can now restream your CH room to 30+ social platforms in one click [Mac only, sorry windows users!]
+* Added volume slider for sound effects
 * Display current speaker at the top of the room
 * Display recording / streaming icons in red when recording / streaming
 
@@ -78,7 +87,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * Hide advanced club controls by default, include double confirm for certain operations
 * Unmuted mics are now red to facilitate viewing flashing mics
 * Display number of raised hands in room
-* Improve style of a live room
+* Improved style of a live room
 
 ## Version 1.1.3
 
@@ -91,7 +100,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * Club admins can now add / remove members & admins
 * Add the ability to share the public / secret link of a club
 * Club admins can now review, approve or reject club members nominations
-* Add button to allow / disallow clubs to be followed, and to make its members private / public
+* Added button to allow / disallow clubs to be followed, and to make its members private / public
 * You can now paste a club link in the search bar to view it
 * Added bouncy transition when hiding/showing join & leave room buttons
 * Added "Check for updates" in the Clubdeck menu for those who can't wait for the app to update automagically
@@ -107,7 +116,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.1.1
 
-* Fix minor bug for back channel chat using Whatsapp
+* Fixed minor bug for back channel chat using Whatsapp
 
 ## Version 1.1.0
 
@@ -121,21 +130,21 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.0.9
 
-* Fix bug when editing an event which is attached to a club
+* Fixed bug when editing an event which is attached to a club
 
 ## Version 1.0.8
 
-* Fix club description editing bug
+* Fixed club description editing bug
 
 ## Version 1.0.7
 
-* Fix styling issue when viewing own profile
-* Add confirm box when trying to close a room
+* Fixed styling issue when viewing own profile
+* Added confirm box when trying to close a room
 * Hide ping button when in a private room and not in moderator status
 * Change users / clubs picker to make selected users / clubs more visible
-* Fix bug when editing an event with a club attached to it
-* Add "Invite on stage" button
-* Fix disconnect bug when attending a room for a long time
+* Fixed bug when editing an event with a club attached to it
+* Added "Invite on stage" button
+* Fixed disconnect bug when attending a room for a long time
 * Club admins can now update their club description
 * Implement smoother scroll
 
@@ -146,13 +155,13 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.0.5
 
-* Implement "hide room" feature to hide rooms you're not interested in
+* Implemented "hide room" feature to hide rooms you're not interested in
 * Sign the Windows package with a developer certificate
 
 ## Version 1.0.4
 
 * Ask for confirmation before sending someone to the audience
-* Fix bug where users list wasn't always refresing properly
+* Fixed bug where users list wasn't always refresing properly
 
 ## Version 1.0.3
 
