@@ -8,12 +8,16 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.9.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # What can you do with Clubdeck?
 
 Pretty much the same things you would do on the App, but on a much bigger screen and with a different approach when it comes to
-user experience. Clubdeck is very powerful to browse rooms, find interesting events, clubs and people to follow, from the comfort of your Mac or PC. You can even stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators. You can even plug a custom microphone or soundcard.
+user experience:
+* Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC. 
+* Stream custom sounds and jingles, manage your clubs and events, or use a backchannel to discuss live with co-moderators. 
+* Plug a custom microphone or soundcard.
+* Record a clubhouse room, restream it to 30+ social networks and transcribe it in real-time.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
 
@@ -28,7 +32,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.9.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -43,6 +47,13 @@ We **do not** access any of your personal data.
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app> or follow us on [twitter](https://www.twitter.com/clubdeckapp).
 
 # Release notes
+
+## Version 1.1.9
+
+* Otter.ai integration: live room transcripts!
+* Add proper clapping sound :)
+* Fixed display bugs on user lists
+* Fixed several Windows related bugs
 
 ## Version 1.1.8
 
