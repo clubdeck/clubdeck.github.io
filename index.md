@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.9.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.0.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # What can you do with Clubdeck?
 
@@ -32,7 +32,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.1.9.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.1.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.0.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -47,6 +47,17 @@ We **do not** access any of your personal data.
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
 # Release notes
+
+## v1.2.0
+
+* Added CTRL + x shortcut to mute the audio of the room
+* Added CTRL + p shortcut to simulate a Pull To Refresh in the room (updates profile pictures)
+* Added CTRL + h shortcut to force refresh the hallway for those too impatient to wait for the periodic refresh
+* Improved pinging mechanism: you can now ping several users in one go
+* Simplified hide room mechanism
+* Added welcome splash screen for new Clubdeck users
+* Added release notes in Clubdeck menu
+* Fixed bug where streaming would not stop if quitting a room abruptly
 
 ## Version 1.1.9
 
@@ -71,8 +82,8 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * View online clubs & friends, with ability to start a private room
 * You can now share a user link / search by user link
 * Added actionable notifications to system tray and notifications list
-* Added calendar icon to "more" events button to make its purpose clearer
-* Added "Leave club" action for club members
+* Added calendar icon to more events button to make its purpose clearer
+* Added Leave club action for club members
 * Added sound quality selector
 * Improve performance in crowded rooms
 * Fixed erroneous message when multiple users are mentionned in a notification
@@ -114,7 +125,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * Added button to allow / disallow clubs to be followed, and to make its members private / public
 * You can now paste a club link in the search bar to view it
 * Added bouncy transition when hiding/showing join & leave room buttons
-* Added "Check for updates" in the Clubdeck menu for those who can't wait for the app to update automagically
+* Added Check for updates in the Clubdeck menu for those who can't wait for the app to update automagically
 * Minor style / UX adjustments
 * Fixed a bug which made the app crash when browsing club member's under certain conditions
 * Fixed a bug where following / unfollowing a user was not always proprely mirrored in all open tabs
@@ -135,8 +146,8 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * Custom sound effects: you can now set up your own custom sounds to play in a room. What about a nice little intro ?
 * Back channel: you can now open a messenger or whatsapp chat alongside your room
 * You can browse the members of a club
-* You can choose "open to members only" when you create an event linked to a club
-* Add "is following you" info on user profile
+* You can choose open to members only when you create an event linked to a club
+* Add is following you info on user profile
 * Minor bug fixes
 
 ## Version 1.0.9
@@ -154,7 +165,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 * Hide ping button when in a private room and not in moderator status
 * Change users / clubs picker to make selected users / clubs more visible
 * Fixed bug when editing an event with a club attached to it
-* Added "Invite on stage" button
+* Added Invite on stage button
 * Fixed disconnect bug when attending a room for a long time
 * Club admins can now update their club description
 * Implement smoother scroll
@@ -162,11 +173,11 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 ## Version 1.0.6
 
 * Minor UI improvements
-* Display release version in "Help" menu on Windows
+* Display release version in Help menu on Windows
 
 ## Version 1.0.5
 
-* Implemented "hide room" feature to hide rooms you're not interested in
+* Implemented hide room feature to hide rooms you're not interested in
 * Sign the Windows package with a developer certificate
 
 ## Version 1.0.4
