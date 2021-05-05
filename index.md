@@ -48,7 +48,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 # Release notes
 
-## v1.2.0
+## Version 1.2.0
 
 * Added CTRL + x shortcut to mute the audio of the room
 * Added CTRL + p shortcut to simulate a Pull To Refresh in the room (updates profile pictures)
