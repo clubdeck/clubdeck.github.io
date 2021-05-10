@@ -5,7 +5,7 @@ layout: default
 # 👋Clubhouse ❤️ desktop, available on Mac and PC
 
 Clubdeck is **not** affiliated with Clubhouse.
-Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in font of a computer ended up with Clubdeck, a
+Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
 | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.1.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.1.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
