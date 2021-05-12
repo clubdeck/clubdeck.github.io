@@ -8,14 +8,14 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.2.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.3.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.3.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
 With Clubdeck, you can do pretty much the same things you would do on the smarthpone apps, with additional key features and a totally different user experience, especially if you are a content creator:
 * Plug a custom professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole!
 * Stream custom sounds and jingles, from local files or directly from YouTube.
-* Record a clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
+* Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel to coordinate live with co-moderators.
 * Find key people to invite on stage by browsing your audience's bios in a breeze.
@@ -35,7 +35,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.2.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.3.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.3.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -50,6 +50,10 @@ We **do not** access any of your personal data.
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
 # Release notes
+
+## Version 1.2.3
+
+* Major performance optimisations for crowded rooms
 
 ## Version 1.2.2
 
