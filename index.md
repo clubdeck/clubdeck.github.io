@@ -54,7 +54,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 ## Version 1.2.4
 
 * Added so more accessibility features
-* Fixed a bug linked that occured when uploading more than 7 audio effects
+* Fixed a bug which occured when uploading more than 7 audio effects
 
 ## Version 1.2.3
 
