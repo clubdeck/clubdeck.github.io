@@ -8,19 +8,22 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.7.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
 With Clubdeck, you can do pretty much the same things you would do on the smarthpone apps, with additional key features and a totally different user experience, especially if you are a content creator:
-* Plug a custom professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole!
-* Stream custom sounds and jingles, from local files or directly from YouTube.
+* Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
+* Play custom sounds and jingles, from local files or directly from YouTube.
 * Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
+* Search your room in real-time by name or bio: never miss the opportunity to bring up interesting people on stage.
+* Display follower counts for the members of your audience: find that hidden influencer in your room.
 * Manage your clubs and set up events in one click. Save templates for recurring events.
-* Set up a back channel to coordinate live with co-moderators.
+* Set up a back channel chat to coordinate live with co-moderators.
 * Find key people to invite on stage by browsing your audience's bios in a breeze.
 * Ping multiple people to your room with ease.
 * Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
+* Use shortcuts to navigate and moderate Clubhouse like a boss.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
 
@@ -35,7 +38,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.7.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.2.8.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.2.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -50,6 +53,16 @@ We **do not** access any of your personal data.
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
 # Release notes
+
+## Version 1.2.8
+
+* Added room search in real-time to search users by name or bio
+* Added a button to display users followers count in a room
+* Added a button to mute everyone on stage when things become uncontrollable :)
+* Added a hands raised counter and shortcut in the right hand side room controls (useful for polls!)
+* Added accessibility headings to the events tab
+* Added accessibility autofocus to heading of current tab on open for quick navigation
+* Added accessibility aria labels to audio effect buttons
 
 ## Version 1.2.7
 
