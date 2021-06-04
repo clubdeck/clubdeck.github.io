@@ -1,12 +1,12 @@
-version: 1.3.3
+version: 1.3.4
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.3-mac.zip
-    sha512: Gk5bdkbwIPnZzaTi5lbxFWR4gHWlcmG6hbCVgRezM0+gnYgobMiZg907NXiYO/BJe9xtrj2oNTTfa/2qBoQp4A==
-    size: 134898264
-    blockMapSize: 141776
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.3.dmg
-    sha512: D1DuceUHrH4kE0cRfefdBVUaDxYhupFX4qV/HIq4RIi+2WORuby5AjI78xqxFSZynVcxFg0vab6DlUllpk6FOA==
-    size: 139995260
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.3-mac.zip
-sha512: Gk5bdkbwIPnZzaTi5lbxFWR4gHWlcmG6hbCVgRezM0+gnYgobMiZg907NXiYO/BJe9xtrj2oNTTfa/2qBoQp4A==
-releaseDate: '2021-06-04T07:57:55.360Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.4-mac.zip
+    sha512: 77Mb9m9SrfvGUuCW4/ciIBJ/wb0vuTrD3H20kYKlzPYYttckjHNobbggdTQ2JYRIHlyOvtSVZnbiJ3iEI1OZJQ==
+    size: 134898793
+    blockMapSize: 141421
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.4.dmg
+    sha512: IFOE7qM7UmUDctt06b4haqDUVWWUu0mHVY4VR9yOuRKvZ4ymZ7GKhC2TsW3y/yxKxlzTPeHEgReVB3jplHQTfw==
+    size: 139995130
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.4-mac.zip
+sha512: 77Mb9m9SrfvGUuCW4/ciIBJ/wb0vuTrD3H20kYKlzPYYttckjHNobbggdTQ2JYRIHlyOvtSVZnbiJ3iEI1OZJQ==
+releaseDate: '2021-06-04T12:46:02.862Z'
