@@ -52,6 +52,31 @@ We **do not** access any of your personal data.
 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
+# Shortcuts
+
+| Clubdeck (General) |
+|---|
+| Refresh hallway | CTRL + h |
+| Online friends tab | CTRL + o |
+| Events tab | CTRL + e |
+| Notifications tab | CTRL + n |
+
+| In-Room (General) |
+|---|
+| PTR (Pull To Refresh) | CTRL + p |
+| Filter users | CTRL + s |
+| Toggle remote Audio | CTRL + x |
+
+| In-Room (Audience) |
+|---|
+| Hand raise / unraise | CTRL + SHIFT + R |
+| Accept stage invite | CTRL + SHIFT + A |
+| Decline stage invite | CTRL + SHIFT + D |
+
+| In-Room (Speaker) |
+|---|
+| Mute / Unmute | CTRL + m |
+
 # Release notes
 
 ## Version 1.3.7
