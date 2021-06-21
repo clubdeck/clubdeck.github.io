@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.3.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.3.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -18,6 +18,8 @@ With Clubdeck, you can do pretty much the same things you would do on the smarth
 * Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
 * Search your room in real-time by name or bio: never miss the opportunity to bring up interesting people on stage.
 * Display follower counts for the members of your audience: find that hidden influencer in your room.
+* Get real-time insights about the audience: gender split, areas of interest
+* Export your audience for further analysis
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel chat to coordinate live with co-moderators.
 * Find key people to invite on stage by browsing your audience's bios in a breeze.
@@ -38,7 +40,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.3.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.3.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.3.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -60,6 +62,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Online friends tab | CTRL + o |
 | Events tab | CTRL + e |
 | Notifications tab | CTRL + n |
+| Mute notifications | CTRL + SHIFT + X |
 
 | In-Room (General) |
 |---|
@@ -78,6 +81,12 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Mute / Unmute | CTRL + m |
 
 # Release notes
+
+## Version 1.3.9
+
+* Added audience insights: real-time info about the room's gender split and areas of interest
+* Added audience exporting (moderators only)
+* Added horizontal scrollbar for our Windows friends who didn't know they could use the arrow keys
 
 ## Version 1.3.8
 
