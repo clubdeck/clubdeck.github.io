@@ -16,10 +16,6 @@ With Clubdeck, you can do pretty much the same things you would do on the smarth
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
-* Search your room in real-time by name or bio: never miss the opportunity to bring up interesting people on stage.
-* Display follower counts for the members of your audience: find that hidden influencer in your room.
-* Get real-time insights about the audience: gender split, areas of interest
-* Export your audience for further analysis
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel chat to coordinate live with co-moderators.
 * Find key people to invite on stage by browsing your audience's bios in a breeze.
@@ -67,7 +63,6 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | In-Room (General) |
 |---|
 | PTR (Pull To Refresh) | CTRL + p |
-| Filter users | CTRL + s |
 | Toggle remote Audio | CTRL + x |
 
 | In-Room (Audience) |
@@ -84,8 +79,8 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.3.9
 
-* Added audience insights: real-time info about the room's gender split and areas of interest
-* Added audience exporting (moderators only)
+* Added audience insights: real-time info about the room's gender split and areas of interest (experimental, moderators only)
+* Added audience exporting (experimental, moderators only)
 * Added horizontal scrollbar for our Windows friends who didn't know they could use the arrow keys
 
 ## Version 1.3.8
@@ -147,8 +142,8 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## Version 1.2.8
 
-* Added in-room search to filter users by name or bio in real time
-* Added a button to display users followers count in a room
+* Added in-room search to filter users by name or bio in real time (experimental, moderators only)
+* Added a button to display users followers count in a room (experimental, moderators only)
 * Added a button to mute everyone on stage when things become uncontrollable :)
 * Added a hands raised counter and shortcut in the right hand side room controls (useful for polls!)
 * Added accessibility headings to the events tab
