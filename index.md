@@ -77,6 +77,14 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 # Release notes
 
+## Version 1.4.0
+
+* Fixed login bug
+* Redesigned the app (hopefully for the best)
+* Added autofocus on new opened tab
+* Improved sound effects tab (you can now scroll inside it)
+* Fixed youtube audio effect bug
+
 ## Version 1.3.9
 
 * Added audience insights: real-time info about the room's gender split and areas of interest (experimental, moderators only)
