@@ -12,7 +12,7 @@ brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
-With Clubdeck, you can do pretty much the same things you would do on the smarthpone apps, with additional key features and a totally different user experience, especially if you are a content creator:
+With Clubdeck, you can do pretty much the same things you would do on the smartphone apps, with additional key features and a totally different user experience, especially if you are a content creator:
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
