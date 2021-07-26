@@ -80,6 +80,22 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 |---|
 | Filter users (by name or bio) | CTRL + s |
 
+# How to feed external audio into Clubdeck
+
+Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless.
+
+* On Mac, you can use [Loopback](https://loopback.io/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
+* On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
+
+# Troubleshooting on Windows
+
+If you are having display issues on Windows, you most probably need to update your drivers.
+
+* [Click here](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) if your PC runs on Intel
+* [Click here](https://www.amd.com/en/support) if your PC runs on AMD
+
+You can also try to change the resolution of your screen.
+
 # Release notes
 
 ## Version 1.4.4
