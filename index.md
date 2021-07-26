@@ -80,7 +80,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 |---|
 | Filter users (by name or bio) | CTRL + s |
 
-# How to feed external audio into Clubdeck
+# How to feed external audio into Clubhouse
 
 Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless.
 
