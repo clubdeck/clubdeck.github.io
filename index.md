@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -36,7 +36,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -98,9 +98,13 @@ You can also try to change the resolution of your screen.
 
 # Release notes
 
+## Version 1.4.6
+
+* Fixed block user from room action
+
 ## Version 1.4.5
 
-* Fix small audio bug on logout
+* Fixed small audio bug on logout
 
 ## Version 1.4.4
 
