@@ -58,7 +58,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Backchannel tab | CTRL + b |
 | Online friends tab | CTRL + o |
 | Events tab | CTRL + e |
-| Create new event | CTRL + SHIFT + e |
+| Create new event | CTRL + SHIFT + E |
 | Notifications tab | CTRL + n |
 | Mute notifications | CTRL + SHIFT + X |
 
@@ -105,7 +105,7 @@ You can also try to change the resolution of your screen.
 
 * Added multi-line messages support in backchannnel
 * Fixed text wrap issue in backchannel
-* Added CTRL + SHIFT + e shortcut to create an event
+* Added CTRL + SHIFT + E shortcut to create an event
 * Accessibility: added CTRL + SHIFT + 1 shortcut to enumerate current mute status
 * Accessibility: added CTRL + SHIFT + 2 shortcut to enumerate current speaker's name
 * Fixed accessibility text regarding new joiners on Clubhouse
