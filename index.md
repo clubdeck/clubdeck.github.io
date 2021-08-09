@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -36,7 +36,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.4.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.4.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -58,6 +58,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Backchannel tab | CTRL + b |
 | Online friends tab | CTRL + o |
 | Events tab | CTRL + e |
+| Create new event | CTRL + SHIFT + e |
 | Notifications tab | CTRL + n |
 | Mute notifications | CTRL + SHIFT + X |
 
@@ -65,6 +66,8 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 |---|
 | PTR (Pull To Refresh) | CTRL + p |
 | Toggle remote Audio | CTRL + x |
+| Enumerate current mute status | CTRL + SHIFT + 1 |
+| Enumerate current speaker | CTRL + SHIFT + 2 |
 
 | In-Room (Audience) |
 |---|
@@ -84,7 +87,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless.
 
-* On Mac, you can use [Loopback](https://loopback.io/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
+* On Mac, you can use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
 * On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
 
 # Troubleshooting on Windows
@@ -97,6 +100,15 @@ If you are having display issues on Windows, you most probably need to update yo
 You can also try to change the resolution of your screen.
 
 # Release notes
+
+## Version 1.4.9
+
+* Added multi-line messages support in backchannnel
+* Fixed text wrap issue in backchannel
+* Added CTRL + SHIFT + e shortcut to create an event
+* Accessibility: added CTRL + SHIFT + 1 shortcut to enumerate current mute status
+* Accessibility: added CTRL + SHIFT + 2 shortcut to enumerate current speaker's name
+* Fixed accessibility text regarding new joiners on Clubhouse
 
 ## Version 1.4.8
 
