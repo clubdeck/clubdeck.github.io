@@ -104,6 +104,8 @@ If you are having display issues on Windows, you most probably need to update yo
 
 You can also try to change the resolution of your screen.
 
+If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
+
 # Release notes
 
 ## Version 1.5.3
