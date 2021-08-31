@@ -90,7 +90,12 @@ Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilit
 * On Mac, you can use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
 * On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
 
-# Troubleshooting on Windows
+# Troubleshooting
+
+If you are having microphone or connection issues we recommend the following steps:
+1. reboot your computer
+2. clear your cache (via the Help! menu at the top)
+3. switch VPN if applicable
 
 If you are having display issues on Windows, you most probably need to update your drivers.
 
