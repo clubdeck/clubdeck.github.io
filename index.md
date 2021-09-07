@@ -8,7 +8,7 @@ Clubdeck is **not** affiliated with Clubhouse.
 Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
 brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.5.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.5.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -16,6 +16,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
+* Record highlights of your room in real-time (short video clips that you can share on social media).
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel chat to coordinate live with co-moderators.
 * Find key people to invite on stage by browsing your audience's bios in a breeze.
@@ -36,7 +37,7 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.5.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.5.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
 
 # Permissions
 
@@ -68,6 +69,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Toggle remote Audio | CTRL + x |
 | Enumerate current mute status | CTRL + SHIFT + 1 |
 | Enumerate current speaker | CTRL + SHIFT + 2 |
+| Record a highlight video (macOS only) | h |
 
 | In-Room (Audience) |
 |---|
@@ -107,6 +109,10 @@ You can also try to change the resolution of your screen.
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 # Release notes
+
+## Version 1.5.6
+
+* Added highlights: short video clips of your room to share on twitter! (macOS only)
 
 ## Version 1.5.5
 

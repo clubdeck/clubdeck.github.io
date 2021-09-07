@@ -1,12 +1,12 @@
-version: 1.5.5
+version: 1.5.6
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.5-universal-mac.zip
-    sha512: myE0nhVD9ZNv/XuwApwQLi4uRGQpRLoJD9irltfRpcBqYUxUtxu58+3leG0qgvS0JIlw5S+wSM8Ho3aa+wJmzg==
-    size: 219305250
-    blockMapSize: 228605
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.5-universal.dmg
-    sha512: fhKYkOi9R8QHfgvsH4IKr9czDax4tTo3PsncSRzZC4s2Dqq5zD3Latm32lPOFDlB/oPUaM6UPIDpw8gAVO5gSg==
-    size: 227095008
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.5-universal-mac.zip
-sha512: myE0nhVD9ZNv/XuwApwQLi4uRGQpRLoJD9irltfRpcBqYUxUtxu58+3leG0qgvS0JIlw5S+wSM8Ho3aa+wJmzg==
-releaseDate: '2021-09-02T06:09:50.336Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.6-universal-mac.zip
+    sha512: 6bjQyVPOE3iOfjJY7h/rzcQa7zqPpzxRHA8XAlskI/pFBa26j8w0Lu+Ym1YGgf5YOkbJlJynJ2vL0uZ9CILyJA==
+    size: 219310365
+    blockMapSize: 228112
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.6-universal.dmg
+    sha512: rp0B6nU25Fz7n9Rh5OfcjmxgUB74jw7SUbUxgr9Lr5O8iRtVnmRU+NA9J547ACLhupKnF5c4KMpona/eYZy+7A==
+    size: 227102562
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.5.6-universal-mac.zip
+sha512: 6bjQyVPOE3iOfjJY7h/rzcQa7zqPpzxRHA8XAlskI/pFBa26j8w0Lu+Ym1YGgf5YOkbJlJynJ2vL0uZ9CILyJA==
+releaseDate: '2021-09-07T09:09:03.566Z'
