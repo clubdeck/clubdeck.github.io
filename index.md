@@ -117,7 +117,7 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Added the ability to delete a club
 * Automatically focus on room title input when creating a new room (also, room topic renamed to title as per Clubhouse's change)
 * Added the ability to tweet room url from hallway and current room
-* Added icon in hallwway to indicate if a room is closed or social
+* Added icon in hallway to indicate if a room is closed or social
 * Added ability to share room url directly from within the room
 * Reworked some of the icons in rooms and hallways
 * Fixed bug where Clubdeck would crash on a room no longer active (e.g. from an old ping or share link)
