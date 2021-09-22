@@ -1,8 +1,8 @@
-version: 1.6.1
+version: 1.6.2
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.1.exe
-    sha512: HNzCyqyYuywdO1Fa/HLVSvMsQYU1tTokNIPU83omaeXacRud9rERxBzAUHNDMH1wJwLF38pHFk0xHBhAjdBbZA==
-    size: 112655528
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.1.exe
-sha512: HNzCyqyYuywdO1Fa/HLVSvMsQYU1tTokNIPU83omaeXacRud9rERxBzAUHNDMH1wJwLF38pHFk0xHBhAjdBbZA==
-releaseDate: '2021-09-20T13:20:34.012Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.2.exe
+    sha512: BiMh3fOh9HdGX2wWPYZ7oWFpUTh5puvqhTbjQxvjmQzWtb3C4kBJpIpW2yCEMlBNjLoWP+/nZ2d8c0XVyJRtfQ==
+    size: 112657064
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.2.exe
+sha512: BiMh3fOh9HdGX2wWPYZ7oWFpUTh5puvqhTbjQxvjmQzWtb3C4kBJpIpW2yCEMlBNjLoWP+/nZ2d8c0XVyJRtfQ==
+releaseDate: '2021-09-22T07:15:31.828Z'
