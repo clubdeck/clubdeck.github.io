@@ -59,7 +59,7 @@ We never access any of your personal data.
 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
-## ⌨️ Shortcuts
+## Shortcuts
 
 | Clubdeck (General) |
 |---|
