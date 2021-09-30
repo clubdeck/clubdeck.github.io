@@ -19,7 +19,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Apply real-time audio effects (voice changer, room reverb).
-* Record a Clubhouse room, restream it to 30+ social networks, transcribe it in real-time.
+* Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, twitter), transcribe it in real-time.
 * Record highlights of your room in real-time (short video clips that you can share on social media).
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel chat to coordinate live with co-moderators.
