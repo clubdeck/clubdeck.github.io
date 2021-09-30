@@ -100,7 +100,7 @@ Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilit
 * On Mac, you can use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
 * On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
 
-## 👐 Troubleshooting
+## Troubleshooting
 
 Note: if you've just registered an account, you must log in once in the iOS or android app before using Clubdeck.
 
@@ -118,7 +118,7 @@ You can also try to change the resolution of your screen.
 
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
-## ✍️ Release notes
+## Release notes
 
 ### Version 1.6.6
 
