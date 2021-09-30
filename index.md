@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
+<center>
+<i>Please note that Clubdeck is not affiliated with Clubhouse.</i>
+<br />
+<br />
+</center>
 
-# 👋 Clubhouse ❤️ desktop, available on Mac and PC
+<center>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+&nbsp;
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+</center>
 
-Clubdeck is **not** affiliated with Clubhouse.
-Yet, our enthusiasm for Clubhouse, combined with a few nights and week-ends spent in front of a computer ended up with Clubdeck, a
-brand new way to browse, use, and enjoy Clubhouse on your Mac or PC.
-
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
-
-# Super powers for content creators on Clubhouse 🦸💪🚀
+## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
 
 With Clubdeck, you can do pretty much the same things you would do on the smartphone apps, with additional key features and a totally different user experience, especially if you are a content creator:
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
@@ -25,34 +28,38 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
 * Use shortcuts to navigate and moderate Clubhouse like a boss.
 
-| ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png) | ![Screenshot 3](/img/screen3.png)
+| ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M_TODBWyLHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br />
 
-# I want it!
+## ❤️ I want it!
 
 No problem, we understand 😋
 
 You can download Clubdeck below:
 
-| <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});">![Download for macOS](/img/macOS.svg)</a> | <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});">![Download for windows](/img/Windows.svg)</a> |
+<center>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+&nbsp;
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+</center>
 
-# Permissions
+## ⚙️ Permissions
 
 The app will ask you for permissions to use your microphone (to be able to join a room) and to display notifications.
 
-# Privacy
+## ✋ Privacy
 
-We **do not** access any of your personal data.
+We never access any of your personal data.
 
-# Stay in touch
+## 📨 Stay in touch
 
 For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
 
-# Shortcuts
+## ⌨️ Shortcuts
 
 | Clubdeck (General) |
 |---|
@@ -86,14 +93,14 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 |---|
 | Filter users (by name or bio) | CTRL + s |
 
-# How to feed external audio into Clubhouse
+## 🎙️ How to feed external audio into Clubhouse
 
 Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless.
 
 * On Mac, you can use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
 * On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
 
-# Troubleshooting
+## 👐 Troubleshooting
 
 Note: if you've just registered an account, you must log in once in the iOS or android app before using Clubdeck.
 
@@ -111,31 +118,31 @@ You can also try to change the resolution of your screen.
 
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
-# Release notes
+## ✍️ Release notes
 
-## Version 1.6.6
+### Version 1.6.6
 
 * Fixed waves bug when accepting/sending a wave when in a live room
 
-## Version 1.6.5
+### Version 1.6.5
 
 * Implemented waves ([see this link](https://twitter.com/Clubhouse/status/1441116789862060034?s=20))
 * Improved audio for specific sound cards
 
-## Version 1.6.4
+### Version 1.6.4
 
 * Fixed auto gain limitation issue
 
-## Version 1.6.3
+### Version 1.6.3
 
 * Fixed minor bugs
 
-## Version 1.6.2
+### Version 1.6.2
 
 * Added voice effects! Add some reverb to your room or change your voice un real-time
 * Fixed bug "Error pinging Clubhouse"
 
-## Version 1.6.1
+### Version 1.6.1
 
 * Added the ability to delete a club
 * Automatically focus on room title input when creating a new room (also, room topic renamed to title as per Clubhouse's change)
@@ -145,56 +152,56 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Reworked some of the icons in rooms and hallways
 * Fixed bug where Clubdeck would crash on a room no longer active (e.g. from an old ping or share link)
 
-## Version 1.6.0
+### Version 1.6.0
 
 * Updated audio engine
 
-## Version 1.5.9
+### Version 1.5.9
 
 * Fixed bug where audio could drop after some time, in specific instances
 
-## Version 1.5.8
+### Version 1.5.8
 
 * Fixed bug where CTRL + h shortcut to refresh hallway was no longer working
 * Fixed bug with CTRL + b shortcut to open / close backchannel
 
-## Version 1.5.7
+### Version 1.5.7
 
 * Fixed bug for highlights longer than 1 minute
 
-## Version 1.5.6
+### Version 1.5.6
 
 * Added highlights: short video clips of your room to share on twitter! (macOS only)
 
-## Version 1.5.5
+### Version 1.5.5
 
 * Upgraded compatibility to MacOS Monterey
 * Various minor bug fixes
 
-## Version 1.5.4
+### Version 1.5.4
 
 * Added loading indicator
 * Added troubleshooting section in Help! menu
 * Renamed audio input / output labels
 * Fine tuned spatial audio parameters
 
-## Version 1.5.3
+### Version 1.5.3
 
 * Added spatial audio ([Click here for an example](https://twitter.com/Clubhouse/status/1432014506247417860?s=20))
 
-## Version 1.5.2
+### Version 1.5.2
 
 * Fixed club creation bug following new Clubhouse update
 * Fixed club rules editing bug
 
-## Version 1.5.1
+### Version 1.5.1
 
 * Updated Club admin / membership mechanisms following the Clubhouse update
 * Added chat archiving
 * Improved style on link / button hover
 * Added tooltip on Clubs in user profiles
 
-## Version 1.5.0
+### Version 1.5.0
 
 * Added Clubdeck voice assistant! Ask it anything, the answer will be streamed in the room
 * Added Chat with mods button to launch direct backchannel with mods from room
@@ -202,7 +209,7 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Improved CTRL + SHIFT + E shortcut to directly display event creating form
 * Improved Start event button display when a scheduled event is going to start
 
-## Version 1.4.9
+### Version 1.4.9
 
 * Added multi-line messages support in backchannnel
 * Fixed text wrap issue in backchannel
@@ -211,30 +218,30 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Accessibility: added CTRL + SHIFT + 2 shortcut to enumerate current speaker's name
 * Fixed accessibility text regarding new joiners on Clubhouse
 
-## Version 1.4.8
+### Version 1.4.8
 
 * Various backchannel bug fixes
 
-## Version 1.4.7
+### Version 1.4.7
 
 * Adapt size for screens with height <= 800px
 
-## Version 1.4.6
+### Version 1.4.6
 
 * Fixed block user from room action
 
-## Version 1.4.5
+### Version 1.4.5
 
 * Fixed small audio bug on logout
 
-## Version 1.4.4
+### Version 1.4.4
 
 * Implemented Backchannel
 * Added tweet event url action
 * Fixed height for some components on smaller screens
 * Fixed recording bug when room title with unusual characters
 
-## Version 1.4.3
+### Version 1.4.3
 
 * Added favorite topics selection
 * Added users and clubs browsing by topics
@@ -245,11 +252,11 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Added the ability to edit club rules
 * Added the ability to edit club topics
 
-## Version 1.4.2
+### Version 1.4.2
 
 * Bug fix app update mechanism
 
-## Version 1.4.1
+### Version 1.4.1
 
 * Added profile pic overlays - if you want to support us, please pick the "I love Clubdeck" badge ❤️
 * Added party hats to identify new CH users
@@ -257,7 +264,7 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed missing ping button in private rooms
 * Improved app update mechanism
 
-## Version 1.4.0
+### Version 1.4.0
 
 * Fixed login bug
 * Redesigned the app (hopefully for the best)
@@ -265,20 +272,20 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Improved sound effects tab (you can now scroll inside it)
 * Fixed youtube audio effect bug
 
-## Version 1.3.9
+### Version 1.3.9
 
 * Added audience insights: real-time info about the room's gender split and areas of interest (experimental, moderators only)
 * Added audience exporting (experimental, moderators only)
 * Added horizontal scrollbar for our Windows friends who didn't know they could use the arrow keys
 
-## Version 1.3.8
+### Version 1.3.8
 
 * Improved snappiness of the app, especially on M1 Macs
 * Changed profile pics shape to match Clubhouse's
 * Made view slightly more compact
 * Added new way to display release notes and shortcuts
 
-## Version 1.3.7
+### Version 1.3.7
 
 * Added the name of the person inviting you on stage
 * Added window size and position autosave
@@ -288,33 +295,33 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Added shortcut to mute notification sounds (CTRL + SHIFT + X)
 * Various bug fixes, in particular for Windows users
 
-## Version 1.3.6
+### Version 1.3.6
 
 * Many optimisations under the hood
 
-## Version 1.3.5
+### Version 1.3.5
 
 * Added the Help! menu which enables to reset the cache in case Clubdeck is stuck, or not working properly
 * Improved search, and Clubhouse link recognition (with or without www)
 
-## Version 1.3.4
+### Version 1.3.4
 
 * Changed saving path selection to before starting recording or streaming
 * Changed defaults shortcuts for Raising your hand (CTRL + SHIFT + R), Accept invitation (CTRL + SHIFT + A), Decline invitation (CTRL + SHIFT + D) and View online friends (CTRL + o)
 
-## Version 1.3.3
+### Version 1.3.3
 
 * Improved connection stability
 
-## Version 1.3.2
+### Version 1.3.2
 
 * Fixed audio bug (sorry!)
 
-## Version 1.3.1
+### Version 1.3.1
 
 * Fixed various bugs
 
-## Version 1.3.0
+### Version 1.3.0
 
 * Added RSVP bell for events
 * Added timetamp feature for recording / streaming
@@ -324,11 +331,11 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed minor display bug on events page
 * Fixed minor audio bugs when recording
 
-## Version 1.2.9
+### Version 1.2.9
 
 * Minor bug fixes
 
-## Version 1.2.8
+### Version 1.2.8
 
 * Added in-room search to filter users by name or bio in real time (experimental, moderators only)
 * Added a button to display users followers count in a room (experimental, moderators only)
@@ -338,11 +345,11 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Added accessibility autofocus to heading of current tab on open for quick navigation
 * Added accessibility aria labels to audio effect buttons
 
-## Version 1.2.7
+### Version 1.2.7
 
 * Added headings for accessibility
 
-## Version 1.2.6
+### Version 1.2.6
 
 * Added notification sound when you are invited on stage
 * Added CTRL + a and CTRL + d shortcuts to accept or decline invitation on stage
@@ -350,25 +357,25 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed file picker bug when selecting a stream cover picture in a different folder
 * Fixed file picker bug when selecting a profile picture in a different folder
 
-## Version 1.2.5
+### Version 1.2.5
 
 * Added some further improvements to audio effects
 
-## Version 1.2.4
+### Version 1.2.4
 
 * Added so more accessibility features
 * Fixed a bug which occured when uploading more than 7 audio effects
 
-## Version 1.2.3
+### Version 1.2.3
 
 * Major performance optimisations for crowded rooms
 
-## Version 1.2.2
+### Version 1.2.2
 
 * Fixed various display bugs in the Events section
 * Fixed other minor bugs
 
-## Version 1.2.1
+### Version 1.2.1
 
 * Clubhub integration: live room statistics in one click!
 * Youtube download: get a sound effect directly from a Youtube video!
@@ -381,7 +388,7 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed bug where user list was not reset after pinging users
 * Added PTR shortcut (CTRL + p) to shortcut popup list
 
-## Version 1.2.0
+### Version 1.2.0
 
 * Added CTRL + x shortcut to mute the audio of the room
 * Added CTRL + p shortcut to simulate a Pull To Refresh in the room (updates profile pictures)
@@ -392,14 +399,14 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Added release notes in Clubdeck menu
 * Fixed bug where streaming would not stop if quitting a room abruptly
 
-## Version 1.1.9
+### Version 1.1.9
 
 * Otter.ai integration: live room transcripts!
 * Add proper clapping sound :)
 * Fixed display bugs on user lists
 * Fixed several Windows related bugs
 
-## Version 1.1.8
+### Version 1.1.8
 
 * Event templates! You can now save a template of a recurring event for later reuse
 * View what rooms your online friends are listening to, and join them in one click
@@ -408,7 +415,7 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed notifications when several people follow at the same time
 * Fixed sound glitch on first room join on Windows
 
-## Version 1.1.7
+### Version 1.1.7
 
 * View and join upcoming club events directly from club view
 * Added phone indicator when a speaker is on the phone
@@ -422,14 +429,14 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed erroneous message when multiple users are mentionned in a notification
 * Fixed occasionnal mute / unmute bug
 
-## Version 1.1.6
+### Version 1.1.6
 
 * Allow users to update their profile picture
 * Keyboard shortcuts in a room (CTR+r to raise / unraise hand, CTRL+m to mute/unmute)
 * Fixed random bug in notifications
 * Fixed bug when Clubhouse not performing as it should
 
-## Version 1.1.5
+### Version 1.1.5
 
 * Added restream.io integration: you can now restream your CH room to 30+ social platforms in one click [Mac only, sorry windows users!]
 * Added volume slider for sound effects
@@ -437,14 +444,14 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Display recording / streaming icons in red when recording / streaming
 
 
-## Version 1.1.4
+### Version 1.1.4
 
 * Hide advanced club controls by default, include double confirm for certain operations
 * Unmuted mics are now red to facilitate viewing flashing mics
 * Display number of raised hands in room
 * Improved style of a live room
 
-## Version 1.1.3
+### Version 1.1.3
 
 * You can now record a room in one click
 * Added live counter of users in the room you're listening to
@@ -464,16 +471,16 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Fixed a bug where following / unfollowing a user was not always proprely mirrored in all open tabs
 * Fixed a bug where the app would crash if lost connection at a specific time while not in a room
 
-## Version 1.1.2
+### Version 1.1.2
 
 * Allow users to start a room directly from their own events list
 * Fixed a bug where it was not possible to open / make a room social
 
-## Version 1.1.1
+### Version 1.1.1
 
 * Fixed minor bug for back channel chat using Whatsapp
 
-## Version 1.1.0
+### Version 1.1.0
 
 * Brand new, slick design
 * Custom sound effects: you can now set up your own custom sounds to play in a room. What about a nice little intro ?
@@ -483,15 +490,15 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Add is following you info on user profile
 * Minor bug fixes
 
-## Version 1.0.9
+### Version 1.0.9
 
 * Fixed bug when editing an event which is attached to a club
 
-## Version 1.0.8
+### Version 1.0.8
 
 * Fixed club description editing bug
 
-## Version 1.0.7
+### Version 1.0.7
 
 * Fixed styling issue when viewing own profile
 * Added confirm box when trying to close a room
@@ -503,34 +510,34 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 * Club admins can now update their club description
 * Implement smoother scroll
 
-## Version 1.0.6
+### Version 1.0.6
 
 * Minor UI improvements
 * Display release version in Help menu on Windows
 
-## Version 1.0.5
+### Version 1.0.5
 
 * Implemented hide room feature to hide rooms you're not interested in
 * Sign the Windows package with a developer certificate
 
-## Version 1.0.4
+### Version 1.0.4
 
 * Ask for confirmation before sending someone to the audience
 * Fixed bug where users list wasn't always refresing properly
 
-## Version 1.0.3
+### Version 1.0.3
 
 * Minor bug fixes
 
-## Version 1.0.2
+### Version 1.0.2
 
 * Fixed a bug where events on the left handside column were not refreshing automatically
 
-## Version 1.0.1
+### Version 1.0.1
 
 * Proper alert when Clubhouse is down
 * Minor bug fixes
 
-## Version 1.0.0
+### Version 1.0.0
 
 * Initial release 🎉

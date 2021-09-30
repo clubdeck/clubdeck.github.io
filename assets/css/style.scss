@@ -4,6 +4,34 @@
 @import "jekyll-theme-minimal";
 
 body {
+  background-color: #202124 !important;
+  color:  #e8eaed !important;
+}
+
+h1 {
+  color:  #e8eaed !important;
+}
+
+h2, h3, h4, h5, th {
+  color:  #c9d1d9 !important;
+  padding-top: 20px !important;
+}
+
+header, section, footer {
+  position: relative !important;
+  width:  100% !important;
+  float: none !important;
+}
+
+header, footer {
+  text-align: center !important;
+}
+
+td {
+  width:  50% !important;
+}
+
+body {
   font: 1.25rem "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
@@ -11,9 +39,8 @@ h1 {
   font-size:32px !important;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   line-height:1.2 !important;
-  color: rgb(55,61,68) !important;
 }
 
 a {
