@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
@@ -27,6 +27,8 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Ping multiple people to your room with ease.
 * Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
 * Use shortcuts to navigate and moderate Clubhouse like a boss.
+* Search rooms, users, clubs, events... anything.
+* Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
@@ -42,9 +44,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.6.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.6.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## ⚙️ Permissions
@@ -119,6 +121,16 @@ You can also try to change the resolution of your screen.
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+### Version 1.6.7
+
+* Added rooms search - with pinned columns for the marketers amongst our users ;)
+* Added events search
+* Added hallway filters - you can now highlight or hide specific rooms based on keywords, and get notified!
+* Added button to disable clips in a room
+* Added clubs suggested by Clubhouse in the bottom widget
+* Added events suggested by Clubhouse in the top widget
+* Improved styling for a few elements
 
 ### Version 1.6.6
 
