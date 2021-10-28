@@ -8,15 +8,16 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.7.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.7.1-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.1.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
 
 With Clubdeck, you can do pretty much the same things you would do on the smartphone apps, with additional key features and a totally different user experience, especially if you are a content creator:
 * Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
+* Music mode: stream in stereo, 48kHz and 128kbps - no special cables required
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Apply real-time audio effects (voice changer, room reverb).
 * Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, twitter), transcribe it in real-time.
@@ -29,6 +30,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Use shortcuts to navigate and moderate Clubhouse like a boss.
 * Search rooms, users, clubs, events... anything.
 * Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
+* Pin links at the top of your room
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
@@ -44,9 +46,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.7.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.7.1-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.1.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## ⚙️ Permissions
@@ -110,6 +112,7 @@ If you are having microphone or connection issues we recommend the following ste
 1. reboot your computer
 2. clear your cache (via the Help! menu at the top)
 3. switch VPN if applicable
+4. Download [Wrap by Cloudflare](https://1.1.1.1/) to make sure your dns resolver is compatible with Clubhouse - [google search if direct link doesn't work](https://www.google.com/search?q=wrap+cloudflare)
 
 If you are having display issues on Windows, you most probably need to update your drivers.
 
@@ -121,6 +124,13 @@ You can also try to change the resolution of your screen.
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+### Version 1.7.1
+
+* Added music mode with stereo
+* Added pinned links
+* Added the ability to select audio input / output directly from the hallway (icon at the top)
+* Improved behaviour with bluetooth headsets
 
 ### Version 1.7.0
 
