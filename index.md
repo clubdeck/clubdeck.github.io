@@ -99,7 +99,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 
 ## 🎙️ How to feed external audio into Clubhouse
 
-Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless.
+Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless - [this step by step tutorial](https://vowe.net/2021/10/30/how-to-play-from-spotify-et-al-into-clubhouse/) is very easy to follow for a basic setup.
 
 * On Mac, you can use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
 * On PC, you can use [VB-Audio cable](https://vb-audio.com/Cable/)
