@@ -20,7 +20,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Music mode: stream in stereo, 48kHz and 128kbps - no special cables required
 * Play custom sounds and jingles, from local files or directly from YouTube.
 * Apply real-time audio effects (voice changer, room reverb).
-* Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, twitter), transcribe it in real-time.
+* Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.), transcribe it in real-time.
 * Record highlights of your room in real-time (short video clips that you can share on social media).
 * Manage your clubs and set up events in one click. Save templates for recurring events.
 * Set up a back channel chat to coordinate live with co-moderators.
@@ -30,7 +30,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Use shortcuts to navigate and moderate Clubhouse like a boss.
 * Search rooms, users, clubs, events... anything.
 * Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
-* Pin links at the top of your room
+* Pin links at the top of your room, easily copy / paste from your browser.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
