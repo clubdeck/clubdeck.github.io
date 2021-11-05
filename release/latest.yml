@@ -1,8 +1,8 @@
-version: 1.7.2
+version: 1.7.3
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.2.exe
-    sha512: DyvezEe0Q3h7OeMdTdOiw58Yl2HmuhBhRI6o8ULUYPQ3xPLD2Ef11mwmpQQkiNeqgKVrdMWmwfPtD4fvJ1fIiA==
-    size: 111340424
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.2.exe
-sha512: DyvezEe0Q3h7OeMdTdOiw58Yl2HmuhBhRI6o8ULUYPQ3xPLD2Ef11mwmpQQkiNeqgKVrdMWmwfPtD4fvJ1fIiA==
-releaseDate: '2021-10-28T16:39:44.294Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.3.exe
+    sha512: xste2/bV4XbiOFUpUc7QqdGY62UetxxAO24S5Zqgnz/cHOGXFWXx7u0JIfYJl/0/2lV7Lf8KzOibpVbHRf9DTg==
+    size: 112746704
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.7.3.exe
+sha512: xste2/bV4XbiOFUpUc7QqdGY62UetxxAO24S5Zqgnz/cHOGXFWXx7u0JIfYJl/0/2lV7Lf8KzOibpVbHRf9DTg==
+releaseDate: '2021-11-05T13:58:56.996Z'
