@@ -32,6 +32,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
 * Pin links at the top of your room, easily copy / paste from your browser.
 * Add a live transcript at the top of your room with our Otter.ai integration.
+* Manage your Clubhouse replays in a few clicks.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
