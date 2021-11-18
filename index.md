@@ -16,29 +16,29 @@ layout: default
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
 
 With Clubdeck, you can do pretty much the same things you would do on the smartphone apps, with additional key features and a totally different user experience, especially if you are a content creator:
-* Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
-* Music mode: stream in stereo, 48kHz and 128kbps - no special cables required
-* Play custom sounds and jingles, from local files or directly from YouTube.
-* Apply real-time audio effects (voice changer, room reverb).
-* Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.), transcribe it in real-time.
-* Record highlights of your room in real-time (short video clips that you can share on social media).
-* Manage your clubs and set up events in one click. Save templates for recurring events.
-* Set up a back channel chat to coordinate live with co-moderators.
-* Find key people to invite on stage by browsing your audience's bios in a breeze.
-* Ping multiple people to your room with ease.
-* Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
-* Use shortcuts to navigate and moderate Clubhouse like a boss.
-* Search rooms, users, clubs, events... anything.
-* Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
-* Pin links at the top of your room, easily copy / paste from your browser.
-* Add a live transcript at the top of your room with our Otter.ai integration.
-* Manage your Clubhouse replays in a few clicks.
-* Pick your favorite light, dark or system theme.
+* 🎙️ Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
+* 🎧 Music mode: stream in stereo, 48kHz and 128kbps - no special cables required
+* 🎵 Play custom sounds and jingles, from local files or directly from YouTube.
+* ✨ Apply real-time audio effects (voice changer, room reverb).
+* 🔴 Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.), transcribe it in real-time.
+* 🎬 Record highlights of your room in real-time (short video clips that you can share on social media).
+* 🏡 Manage your clubs and set up events in one click. Save templates for recurring events.
+* 💬 Set up a back channel chat to coordinate live with co-moderators.
+* 💡 Find key people to invite on stage by browsing your audience's bios in a breeze.
+* 🔔 Ping multiple people to your room with ease.
+* 📰 Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
+* ⌨️ Use shortcuts to navigate and moderate Clubhouse like a boss.
+* 🔎 Search rooms, users, clubs, events... anything.
+* 🎛️ Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
+* 📍 Pin links at the top of your room, easily copy / paste from your browser.
+* ✍️ Add a live transcript at the top of your room with our Otter.ai integration.
+* 📼 Manage your Clubhouse replays in a few clicks.
+* ☀️ Pick your favorite light, dark or system theme.
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_TODBWyLHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W_ceojv3p9s" title="Clubdeck demo - Clubhouse for Mac or PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br />
 
