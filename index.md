@@ -38,7 +38,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W_ceojv3p9s" title="Clubdeck demo - Clubhouse for Mac or PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_ceojv3p9s" title="Clubdeck demo - Clubhouse for Mac or PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br />
 
