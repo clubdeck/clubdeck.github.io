@@ -17,10 +17,10 @@ layout: default
 
 With Clubdeck, you can do pretty much the same things you would do on the smartphone apps, with additional key features and a totally different user experience, especially if you are a content creator:
 * 🎙️ Use a professional microphone or sound card to maximise audio quality. You can even reroute audio through software like Loopback or Blackhole! Possibilities are endless.
-* 🎧 Music mode: stream in stereo, 48kHz and 128kbps - no special cables required
+* 🎧 Music mode: stream in stereo, 48kHz and 128kbps - no special cables required.
 * 🎵 Play custom sounds and jingles, from local files or directly from YouTube.
 * ✨ Apply real-time audio effects (voice changer, room reverb).
-* 🔴 Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.), transcribe it in real-time.
+* 🔴 Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.).
 * 🎬 Record highlights of your room in real-time (short video clips that you can share on social media).
 * 🏡 Manage your clubs and set up events in one click. Save templates for recurring events.
 * 💬 Set up a back channel chat to coordinate live with co-moderators.
