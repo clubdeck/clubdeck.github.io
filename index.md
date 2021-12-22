@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.8.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.8.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.4.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
@@ -49,9 +49,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.8.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.8.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.4.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## ⚙️ Permissions
@@ -114,19 +114,34 @@ Note: if you've just registered an account, you must log in once in the iOS or a
 If you are having microphone or connection issues we recommend the following steps:
 1. reboot your computer
 2. clear your cache (via the Help! menu at the top)
-3. switch VPN if applicable
-4. Download [Wrap by Cloudflare](https://one.one.one.one/) to make sure your dns resolver is compatible with Clubhouse
+3. switch or desactivate your VPN if applicable
+4. whitelist Clubdeck in your firewall rules
+5. Download [Wrap by Cloudflare](https://one.one.one.one/) to make sure your dns resolver is compatible with Clubhouse
+6. If you are on Windows and using an ASIO compatible soundcard or mixer, you might need to install VB-Audio ASIO bridge that you will find [at the bottom of this page](https://vb-audio.com/Cable/) - if you are a professional in the audio space, please bear in mind you need to be familiar enough with your equipment, we cannot help you troubleshoot specific issues not related directly to Clubdeck
 
 If you are having display issues on Windows, you most probably need to update your drivers.
 
 * [Click here](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) if your PC runs on Intel
 * [Click here](https://www.amd.com/en/support) if your PC runs on AMD
 
-You can also try to change the resolution of your screen.
+You can also try to change the resolution of your screen, and adjust the zoom in Clubdeck by going to the View > Zoom Int / Out at the top menu.
 
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+## Version 1.8.5
+
+* Added total number of users in room next to live counter
+* Added NSFW filter
+* Made the audio controls widget from the top menu synchronize with the one in Audio settings in-room
+* Added more understandable error messages when creating a room or event with incorrect parameters
+* Added the ability to edit room topics
+* Fixed undefined event url in some tweets or events
+* Fixed backchannel slow input issue
+* Fixed profile hover in room colliding with room section title
+* Fixed minor scrolling issues
+* Fixed minor refresh issues
 
 ## Version 1.8.4
 
