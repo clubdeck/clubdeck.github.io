@@ -124,7 +124,7 @@ If you are having display issues on Windows, you most probably need to update yo
 * [Click here](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) if your PC runs on Intel
 * [Click here](https://www.amd.com/en/support) if your PC runs on AMD
 
-You can also try to change the resolution of your screen, and adjust the zoom in Clubdeck by going to the View > Zoom Int / Out at the top menu.
+You can also try to change the resolution of your screen, and adjust the zoom in Clubdeck by going to View > Zoom In / Out at the top menu.
 
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
