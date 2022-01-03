@@ -100,12 +100,12 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 |---|
 | Filter users (by name or bio) | CTRL + s |
 
-## 🎙️ How to feed external audio into Clubhouse
+## 🎙️ How to mix voice + external audio into Clubhouse
 
-Feeding external audio into Clubhouse with Clubdeck is very easy, and possibilities are endless - you can follow [this step by step tutorial](https://vowe.net/2021/10/30/how-to-play-from-spotify-et-al-into-clubhouse/) for a basic setup.
+Mixing voice + external audio into Clubhouse is very easy with Clubdeck, and possibilities are endless - you can follow [this step by step tutorial](https://vowe.net/2022/01/02/mixing-voice-and-music-for-clubdeck-in-software/) for a good setup.
 
 * On Mac, you could use [Loopback](https://rogueamoeba.com/loopback/), [Blackhole](https://existential.audio/blackhole/) or [VB-Audio cable](https://vb-audio.com/Cable/)
-* On PC, you could use [VB-Audio cable](https://vb-audio.com/Cable/) or [Voicemeeter](https://vb-audio.com/Voicemeeter/)
+* On PC, we recommend [Voicemeeter](https://vb-audio.com/Voicemeeter/banana.htm)
 
 ## Troubleshooting
 
