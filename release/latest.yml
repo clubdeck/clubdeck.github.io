@@ -1,8 +1,9 @@
-version: 1.8.9
+version: 1.9.0
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.9.exe
-    sha512: 5lyTtknBzkGk/4eIggSZFwQQQYkoDZV/AGUd/DAuw6tzbr45XEaFg2HslPigl5RtiPigrOcSaUfyATj6w7yAJg==
-    size: 113072376
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.8.9.exe
-sha512: 5lyTtknBzkGk/4eIggSZFwQQQYkoDZV/AGUd/DAuw6tzbr45XEaFg2HslPigl5RtiPigrOcSaUfyATj6w7yAJg==
-releaseDate: '2022-01-06T12:57:33.316Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.0.exe
+    sha512: CojpHloOi7a51JCH0Fph9034OL088r4bp8I8WZb29b1uh0vTsdWUEfjiM18hj75tb9drkZGv1nOs3Aq+Vy1rnw==
+    size: 113231640
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.0.exe
+sha512: CojpHloOi7a51JCH0Fph9034OL088r4bp8I8WZb29b1uh0vTsdWUEfjiM18hj75tb9drkZGv1nOs3Aq+Vy1rnw==
+releaseDate: '2022-01-07T17:16:23.814Z'
+https://www.clubhouse.com/room/KyuXwgD282lWg
