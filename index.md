@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.1-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.2-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
@@ -49,9 +49,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.1-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.2-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.2.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## ⚙️ Permissions
@@ -130,9 +130,20 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 
 ## Release notes
 
+## Version 1.9.2
+
+* Added indication for when a given room started in hallway list
+* Added admin / leader status to club member list
+* Added the ability for Club admins to end any room under their club
+* Added custom emojis displayed when users are using CH-specific emojis like 🖤 or ✊🏿
+* Added suggested replays to bottom of hallway
+* Made room search columns come into focus when searching for rooms
+* Fixed moving controls button when a user mutes itself on stage
+* Added indication of live / replay room counts in collapsed search columns
+
 ## Version 1.9.1 (Mac OS only)
 
-* Fix signature issue on the build (no new feature)
+* Fixed signature issue on the build (no new feature)
 
 ## Version 1.9.0
 
