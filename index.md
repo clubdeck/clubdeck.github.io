@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
@@ -20,7 +20,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * 🎧 Music mode: stream in stereo, 48kHz and 128kbps - no special cables required.
 * 🎵 Play custom sounds and jingles, from local files or directly from YouTube.
 * ✨ Apply real-time audio effects (voice changer, room reverb).
-* 🔴 Record a Clubhouse room, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.).
+* 🔴 Record a Clubhouse room in lossless stereo .wav or compressed mono .aac, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.).
 * 💬 Manage your room chat like you've done it all your life.
 * 🎬 Record highlights of your room in real-time (short video clips that you can share on social media).
 * 🏡 Manage your clubs and set up events in one click. Save templates for recurring events.
@@ -50,9 +50,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.8-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.8.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 
 ## ⚙️ Permissions
@@ -130,6 +130,12 @@ You can also try to change the resolution of your screen, and adjust the zoom in
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+## Version 1.9.8
+
+* Fixed bug in club nomination view
+* Improved notifications
+* Fixed mini calendar to give the ability to start a scheduled event from there
 
 ## Version 1.9.7
 
