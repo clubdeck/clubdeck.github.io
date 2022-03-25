@@ -116,7 +116,7 @@ If you are having microphone or connection issues we recommend the following ste
 1. reboot your computer
 2. clear your cache (via the Help! menu at the top)
 3. switch or desactivate your VPN if applicable
-4. whitelist Clubdeck in your firewall rules
+4. whitelist Clubdeck in your firewall rules - for example, see this link for [Norton](https://support.norton.com/sp/en/us/home/current/solutions/v6958602)
 5. Download [Wrap by Cloudflare](https://one.one.one.one/) to make sure your dns resolver is compatible with Clubhouse
 6. If you are on Windows and using an ASIO compatible soundcard or mixer, you might need to install VB-Audio ASIO bridge that you will find [at the bottom of this page](https://vb-audio.com/Cable/) - if you are a professional in the audio space, please bear in mind you need to be familiar enough with your equipment, we cannot help you troubleshoot specific issues not related directly to Clubdeck
 
