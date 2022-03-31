@@ -8,9 +8,12 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.0.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+</center>
+<center>
+  <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
 </center>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
@@ -50,9 +53,12 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-1.9.9-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.0.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.1.9.9.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+</center>
+<center>
+  <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
 </center>
 
 ## ⚙️ Permissions
@@ -130,6 +136,15 @@ You can also try to change the resolution of your screen, and adjust the zoom in
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+## Version 2.0.0
+
+* Added a link to Clubdeck's reference manual from the Help menu
+* Removed edit topics link on replays
+* Removed enable / disable room chat toggle on replays
+* Fixed bug where audience was not showing up in private club rooms
+* Fixed bug where club admins couldn't see club members if membership list was set to private
+* Fixed backchannel bug when computer resumes from sleep
 
 ## Version 1.9.9
 
