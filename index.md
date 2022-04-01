@@ -116,7 +116,7 @@ Mixing voice + external audio into Clubhouse is very easy with Clubdeck, and pos
 
 ## Troubleshooting
 
-Note: if you've just registered an account, you must log in once in the iOS or android app before using Clubdeck.
+Note: if you have just registered an account, you must log in once in the iOS or android app before using Clubdeck.
 
 If you are having microphone or connection issues we recommend the following steps:
 1. reboot your computer
