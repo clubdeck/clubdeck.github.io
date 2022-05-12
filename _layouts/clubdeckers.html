@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/clubdeckers.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+    {% include favicon.html %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ClubdeckApp">
+    <meta name="twitter:title" content="👋 Clubhouse ❤️ desktop">
+    <meta name="twitter:description" content="Clubdeck is a free Clubhouse client for your desktop, available on Mac and Windows. Made with ❤️, 🍣 and 🍻 in Barcelona & Paris.">
+    <meta name="twitter:image" content="https://www.clubdeck.app/img/screen2.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <section class="container not-connected">
+      <div>
+        <h2 id="welcomeH2">You're just a few steps away from joining the Clubdeckers community</h2>
+        <button class="btn" id="connectWallet">
+            <span>Connect Wallet</span>
+        </button>
+        <p>
+          <br />
+          New here? <a href="https://discord.gg/3QaeDTwu" target=_blank>Join our discord</a> to learn more.
+        </p>
+      </div>
+    </section>
+
+    <section class="container">
+      <div class="countdown card">
+        <div id="countdown">
+          <ul class="count-down" data-date="">
+            <li class="clock-item">
+              <span class="count-number days">20</span>
+              <p class="count-text">Days</p>
+            </li>
+
+            <li class="clock-item">
+              <span class="count-number hours">20</span>
+              <p class="count-text">Hour</p>
+            </li>
+
+            <li class="clock-item">
+              <span class="count-number minutes">20</span>
+              <p class="count-text">Min</p>
+            </li>
+
+            <li class="clock-item">
+              <span class="count-number seconds">20</span>
+              <p class="count-text">Sec</p>
+            </li>
+          </ul>
+          <h2 id="subHeading">Pre-sale countdown</h2>
+        </div>
+        <h1 id="mainHeading"></h1>
+        <p id="mainText">
+          The Clubdeckers VIP passes will be for sale soon.
+        </p>
+        <a
+          id="actionButton"
+          href="https://discord.gg/3QaeDTwu"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn"
+          ><span>Join the community</span>
+        </a>
+        <div id="mintContainer" class="mint-container hidden">
+          <div class="info-container">
+            <div>
+              <h3>Supply</h3>
+              <p id="totalSupply">100</p>
+            </div>
+            <div>
+              <h3>Price per mint</h3>
+              <p id="pricePerMint">1 ETH</p>
+            </div>
+            <div>
+              <h3>Max</h3>
+              <p id="maxPerMint">5 per wallet</p>
+            </div>
+          </div>
+          <div class="mint-qty">
+            <span>
+              <button class="input-number-decrement btn btn-adjust" id="mintDecrement">–</button>
+              <input
+                id="mintInput"
+                class="input-number btn btn-adjust"
+                type="number"
+                value="1"
+                min="1"
+                max="5"
+              />
+              <button class="input-number-increment btn btn-adjust" id="mintIncrement">+</button>
+            </span>
+            <button id="setQtyMax" class="btn btn-adjust">Max quantity</button>
+          </div>
+          <div class="total-price-container">
+            <h3>Total</h3>
+            <h2 id="totalPrice">.001 ETH</h2>
+          </div>
+          <button id="mintButton" class="btn mint-btn">Mint</button>
+        </div>
+      </div>
+      <div class="minted-container card show-card hidden">
+        <h1>🎉</h1>
+        <h2>Minted!</h2>
+        <p>Here's your transaction link:</p>
+        <a id="mintedTxnBtn" href="" target="_blank" rel="noopener noreferrer">
+          <button class="btn">View transaction</button>
+        </a>
+        <p>View it in the collection:</p>
+        <a
+          id="mintedLinkBtn"
+          href="https://testnets.opensea.io/collection/clubdeckers"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button class="btn">View collection</button>
+        </a>
+      </div>
+    </section>
+
+    <div id="spinner"></div>
+    <script src="{{ "/assets/js/metamask-onboarding.bundle.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    <script src="{{ "/assets/js/web3.min.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    <script src="{{ "/assets/js/constants.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+    <script src="{{ "/assets/js/app.js?v=" | append: site.github.build_revision | relative_url }}"></script>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
+  </body>
+</html>
