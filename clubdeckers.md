@@ -1,3 +1,3 @@
 ---
-layout: empty
+layout: clubdeckers
 ---

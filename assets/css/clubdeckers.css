@@ -48,7 +48,7 @@ header .container {
   height: 100%;
   text-align: center;
   /*margin: 0 auto 0 35vw;*/
-  opacity: 0;
+  opacity: 1;
   /*transform: translateY(10vh);
   transition: all 0.5s ease-in-out;*/
 }

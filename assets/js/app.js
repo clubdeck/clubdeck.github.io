@@ -71,7 +71,7 @@ const updateConnectStatus = async () => {
           method: "eth_requestAccounts",
         })
         .then(function (accts) {
-          onboardButton.innerText = `✔ ${accts[0].slice(0,4)}...${accts[0].slice(-4)}`
+          onboardButton.innerText = `✔ connected to ${accts[0].slice(0,4)}...${accts[0].slice(-4)}`
           notConnected.classList.remove('show-not-connected')
           notConnected.classList.add('hidden')
           // SHOW SPINNER
@@ -79,9 +79,7 @@ const updateConnectStatus = async () => {
           onboardButton.disabled = true
           window.address = accts[0]
           accounts = accts
-          console.log("zob")
           window.contract = new web3.eth.Contract(abi, contractAddress)
-          console.log("zub")
           loadInfo()
         })
     }
