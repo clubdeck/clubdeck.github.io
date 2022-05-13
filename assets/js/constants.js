@@ -1,5 +1,5 @@
-const contractAddress = '0x8B854AaDa086Fb5028eD513F6AC8a2c6d663c3bc' //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = '0xb99191E5E9d91c612CF90817c62dA04920258218' //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 const merkleProofs = {
   '0xa0ed708fd9a3b759f78741f25aafcf7f7a5152fc': [
     '0xc764b6cbce8e420cf6c81db0ec389289a160a7606addb5a554bc2e2d5886fb73'
