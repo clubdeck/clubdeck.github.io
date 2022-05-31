@@ -296,7 +296,7 @@ async function mint() {
     try {
       const mintTransaction = await contract.methods
         .mint(amount)
-        .send({ from: window.address, value: value.toString() });
+        .send({ from: window.address, value: value.toString(), gasPrice: '100000000000' /* default gas price in wei, 100 gwei in this case */ });
       if(mintTransaction) {
         if(chain === 'rinkeby') {
           const url = `https://rinkeby.etherscan.io/tx/${mintTransaction.transactionHash}`;
