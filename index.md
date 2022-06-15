@@ -137,6 +137,13 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 
 ## Release notes
 
+## Version 2.0.8
+
+* Added Gif reactions
+* Added Houses (ex "Social Clubs") - BETA
+* Fixed room composer bug where language selector was not shown
+* Added the ability to add a game to any type of room from the room composer
+
 ## Version 2.0.7
 
 * Hotfix invalid discord invite
