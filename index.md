@@ -137,6 +137,15 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 
 ## Release notes
 
+## Version 2.0.9
+
+* Fixed online friends tab
+* Added the ability to set / update a House photo
+* Added the ability to set / update a House room title
+* Added the ability to update a House name
+* Added the ability to delete House chat messages when permission is there
+* Added the ability to invite friends to a House
+
 ## Version 2.0.8
 
 * Added Gif reactions

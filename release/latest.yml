@@ -1,8 +1,8 @@
-version: 2.0.8
+version: 2.0.9
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.8.exe
-    sha512: nUhjps0D2OZCGymvlDPjvb9SoUTpv4ndo3bgCrofAvVwf9n4BIdGdeqFJL2Md60AxjzVrKTUj6xn2y2QiYZgcQ==
-    size: 118168704
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.8.exe
-sha512: nUhjps0D2OZCGymvlDPjvb9SoUTpv4ndo3bgCrofAvVwf9n4BIdGdeqFJL2Md60AxjzVrKTUj6xn2y2QiYZgcQ==
-releaseDate: '2022-06-15T15:16:28.033Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.9.exe
+    sha512: JN39V6ZIFuOfReZuhFV79Sc5lBB7q/3T8CtCngctL+HxFEVsM4YVtM+0Tdb5Q9cQH87ResKNJXWyK58Lacc9BA==
+    size: 118192920
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.0.9.exe
+sha512: JN39V6ZIFuOfReZuhFV79Sc5lBB7q/3T8CtCngctL+HxFEVsM4YVtM+0Tdb5Q9cQH87ResKNJXWyK58Lacc9BA==
+releaseDate: '2022-06-20T14:49:57.963Z'
