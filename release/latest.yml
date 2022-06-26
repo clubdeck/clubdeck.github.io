@@ -1,6 +1,6 @@
 version: 2.1.2
 files:
-  - url:https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.2.exe
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.2.exe
     sha512: jZEH4z4d3GPQruASA8e6TOWYI7wkecGpD3Y1cW7WskaPaqf+qgfnaqxZBUiV2H3PeAyF7QYXr+EDKUNCXar7qw==
     size: 118192320
 path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.2.exe
