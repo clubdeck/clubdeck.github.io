@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.4.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -53,9 +53,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.4.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.1.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -136,6 +136,13 @@ You can also try to change the resolution of your screen, and adjust the zoom in
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 ## Release notes
+
+## Version 2.1.5
+
+* Added the ability to wave a house member from a house chat message
+* Fixed incorrect display of Invite on stage button for private rooms (except when they are part of a club)
+* Optimised room chat latency when many messages
+* Fixed various houses bugs
 
 ## Version 2.1.4
 
