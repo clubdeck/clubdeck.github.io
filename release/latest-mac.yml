@@ -1,11 +1,11 @@
-version: 2.1.7
+version: 2.1.8
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.7-universal-mac.zip
-    sha512: izFr2ONV4I8A+Ne/xNdjRYR6cOJ1U1BplEmnApY21U2AJYyuscATw9JpCQGIbiyONv++UAxHKK975qZLBfYs5w==
-    size: 226888707
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.7-universal.dmg
-    sha512: Y92LvfK65Y2vEpZoxlBs2zqK+o00oaOj03K0HkaYwwKeoFUuCXyfWRKLgeEKh8Gb1tcnHawWRRY9MAaBoDoQWw==
-    size: 235989681
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.7-universal-mac.zip
-sha512: izFr2ONV4I8A+Ne/xNdjRYR6cOJ1U1BplEmnApY21U2AJYyuscATw9JpCQGIbiyONv++UAxHKK975qZLBfYs5w==
-releaseDate: '2022-07-08T07:11:55.238Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.8-universal-mac.zip
+    sha512: M3kSgVRPsYSO5bfRz/M2k5O2xPsYM3U1zyU30iUkjDujyFMd09IOlUu4vzdhizCObT/OmQdQwZlC1BizQ/dbEQ==
+    size: 226908783
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.8-universal.dmg
+    sha512: GXo//qKcNuVMNgKSS/mHdm0HyQ48DJT5mL7PyF/ELU/pQL8CIbtSZOUX2iPqt1aAkgPphe7A4f1WMR4aCIfrFw==
+    size: 235999549
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.1.8-universal-mac.zip
+sha512: M3kSgVRPsYSO5bfRz/M2k5O2xPsYM3U1zyU30iUkjDujyFMd09IOlUu4vzdhizCObT/OmQdQwZlC1BizQ/dbEQ==
+releaseDate: '2022-08-16T15:41:50.514Z'
