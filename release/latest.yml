@@ -1,8 +1,8 @@
-version: 2.3.1
+version: 2.3.2
 files:
-  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.3.1.exe
-    sha512: nYHPCKhSTvOqoHKvtJt8TTgRMQPGfhmCtIYaziYVEaj0qOzqKi6/N7zkJx6GjytNPRheBY2dByuKmQn4FmXV8Q==
-    size: 118336528
-path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.3.1.exe
-sha512: nYHPCKhSTvOqoHKvtJt8TTgRMQPGfhmCtIYaziYVEaj0qOzqKi6/N7zkJx6GjytNPRheBY2dByuKmQn4FmXV8Q==
-releaseDate: '2022-10-03T08:00:25.360Z'
+  - url: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.3.2.exe
+    sha512: OWQE5jW9CFQLIhLk1R0W+Ctv4/18iJdqe+5n5qWQDqmKcpjcxcE+NgC9jZ8OBDk2xu6EMY6WACxJwEUZkPUiZQ==
+    size: 118336648
+path: https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.3.2.exe
+sha512: OWQE5jW9CFQLIhLk1R0W+Ctv4/18iJdqe+5n5qWQDqmKcpjcxcE+NgC9jZ8OBDk2xu6EMY6WACxJwEUZkPUiZQ==
+releaseDate: '2022-10-20T12:03:50.122Z'
