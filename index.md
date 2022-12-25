@@ -136,6 +136,8 @@ You can also try to change the resolution of your screen, and adjust the zoom in
 
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
+Looking for <a href="https://activatebot.github.io">chat GPT on iOS</a>? Try Activate AI!
+
 ## Release notes
 
 ## Version 2.4.1
