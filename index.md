@@ -8,9 +8,9 @@ layout: default
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.4.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.4.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.4.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.4.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -53,9 +53,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.4.5-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.4.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.4.5.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.4.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -71,7 +71,7 @@ We never access any of your personal data.
 
 ## 📨 Stay in touch
 
-For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.joinclubhouse.com/club/clubdeck).
+For any questions or feature requests you can contact us at <hello [at] clubdeck.app>, follow us on [twitter](https://www.twitter.com/clubdeckapp) or join our [Clubdeck Club on clubhouse](https://www.clubhouse.com/club/clubdeck).
 
 ## Shortcuts
 
@@ -139,6 +139,11 @@ If you are experiencing crashes on an M1 Mac, some specific system libraries may
 Looking for <a href="https://activatebot.github.io">chat GPT on iOS</a>? Try Activate AI!
 
 ## Release notes
+
+## Version 2.4.6
+
+* Fixed a bug where sometimes you couldn't close a House tab
+* Fixed a bug where sometimes the "open unread" button would show even if you don't have unread messages in Houses
 
 ## Version 2.4.5
 
