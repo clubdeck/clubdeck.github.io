@@ -4,6 +4,7 @@ layout: default
 <center>
 <i>Clubdeck is not affiliated with Clubhouse.</i>
 <br />
+Clubdeck is *free* software developed on our spare time: <a href="https://www.buymeacoffee.com/clubdeck" target=_blank>please support us & buy us a coffee ☕️</a>
 <br />
 </center>
 
