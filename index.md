@@ -27,13 +27,13 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * 🔴 Record a Clubhouse room in lossless stereo .wav or compressed mono .aac, restream it to 30+ social networks (YouTube, Facebook, Twitter etc.).
 * 💬 Manage your room or house chats like you've done it all your life.
 * 🎬 Record highlights of your room in real-time (short video clips that you can share on social media).
-* 🏡 Manage your clubs & houses, set up events in one click. Save templates for recurring events. View multiple houses at once!
+* 🏡 Manage your houses, set up events in one click. Save templates for recurring events. View multiple houses at once!
 * 💬 Set up a back channel chat to coordinate live with co-moderators.
 * 💡 Find key people to invite on stage by browsing your audience's bios in a breeze.
 * 🔔 Ping multiple people to your room with ease.
-* 📰 Browse rooms, events, clubs and people to follow, from the comfort of your Mac or PC.
+* 📰 Browse rooms, events, houses and people to follow, from the comfort of your Mac or PC.
 * ⌨️ Use shortcuts to navigate and moderate Clubhouse like a boss.
-* 🔎 Search rooms, users, clubs, events... anything.
+* 🔎 Search rooms, users, houses, events... anything.
 * 🎛️ Pin room searches to columns, apply custom highlighting and notification filters: marketing experts, this is for you!
 * 📍 Pin links at the top of your room, easily copy / paste from your browser.
 * ✍️ Add a live transcript at the top of your room with our Otter.ai integration.
