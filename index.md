@@ -83,7 +83,6 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | House tab | CTRL + h |
 | Online friends tab | CTRL + o |
 | Events tab | CTRL + e |
-| Create new event | CTRL + SHIFT + E |
 | Notifications tab | CTRL + n |
 | Mute notifications | CTRL + SHIFT + X |
 
