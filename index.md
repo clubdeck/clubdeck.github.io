@@ -140,6 +140,10 @@ Looking for <a href="https://activatebot.github.io">GPT 4 and chat GPT for iOS</
 
 ## Release notes
 
+## Version 2.5.6
+
+* Updated Clubdeck for Clubhouse 3.0 - there is far to much stuff done to list them here. This was not easy, folks!
+
 ## Version 2.5.5
 
 * Added cohosts to house events scheduling
