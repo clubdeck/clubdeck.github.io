@@ -9,9 +9,9 @@ Clubdeck is <strong>free</strong> software developed on our spare time: <a href=
 </center>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.5.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.5.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.5.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.5.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -54,9 +54,9 @@ No problem, we understand 😋
 You can download Clubdeck below:
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.5.6-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.5.7-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.5.6.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.5.7.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
@@ -81,7 +81,7 @@ For any questions or feature requests you can contact us at <hello [at] clubdeck
 | Refresh hallway | CTRL + r |
 | Backchannel tab | CTRL + b |
 | House tab | CTRL + h |
-| Online friends tab | CTRL + o |
+| Waves tab | CTRL + o |
 | Events tab | CTRL + e |
 | Notifications tab | CTRL + n |
 | Mute notifications | CTRL + SHIFT + X |
@@ -140,9 +140,13 @@ Looking for <a href="https://activatebot.github.io">GPT 4 and chat GPT for iOS</
 
 ## Release notes
 
+## Version 2.5.7
+
+* Fixed a number of bugs following the new CH update - there are still missing features and/or bugs, please report them to us, thanks
+
 ## Version 2.5.6
 
-* Updated Clubdeck for Clubhouse 3.0 - there is far to much stuff done to list them here. This was not easy, folks!
+* Updated Clubdeck for Clubhouse 3.0 - there is far too much stuff done to list them here. This was not easy, folks!
 
 ## Version 2.5.5
 
