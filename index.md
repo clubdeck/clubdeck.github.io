@@ -8,14 +8,54 @@ Clubdeck is <strong>free</strong> software developed on our spare time: <a href=
 <br />
 </center>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <center>
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.6.0.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
 </center>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -42,6 +82,19 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_ceojv3p9s" title="Clubdeck demo - Clubhouse for Mac or PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -53,6 +106,19 @@ No problem, we understand 😋
 
 You can download Clubdeck below:
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <center>
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
@@ -61,6 +127,20 @@ You can download Clubdeck below:
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
 </center>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## ⚙️ Permissions
 
