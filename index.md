@@ -8,6 +8,19 @@ Clubdeck is <strong>free</strong> software developed on our spare time: <a href=
 <br />
 </center>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <center>
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
@@ -17,6 +30,19 @@ Clubdeck is <strong>free</strong> software developed on our spare time: <a href=
 <center>
   <a href="/assets/Clubdeck_Reference_Manual.pdf" target="_blank">Clubdeck Reference Manual</a>
 </center>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 🔥 Super powers for content creators on Clubhouse 🦸💪🚀
 
@@ -53,6 +79,19 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 No problem, we understand 😋
 
 You can download Clubdeck below:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <center>
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.0-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
@@ -138,6 +177,19 @@ You can also try to change the resolution of your screen, and adjust the zoom in
 If you are experiencing crashes on an M1 Mac, some specific system libraries may not be entirely up to date - the solution is to enable "Open with Rosetta" for Clubdeck as described [on this page](https://support.apple.com/HT211861)
 
 Looking for <a href="https://activatebot.github.io">GPT 4 and chat GPT for iOS</a>? Try Activate AI!
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568240792498432"
+     crossorigin="anonymous"></script>
+<!-- Clubdeck_display -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3568240792498432"
+     data-ad-slot="9551095578"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Release notes
 
