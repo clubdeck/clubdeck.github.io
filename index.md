@@ -22,7 +22,7 @@ Clubdeck is <strong>free</strong> software developed on our spare time: <a href=
 </script>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.3-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.6.3.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
@@ -94,7 +94,7 @@ You can download Clubdeck below:
 </script>
 
 <center>
-<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.3-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
+<a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck-2.6.4-universal.dmg" onClick="gtag('event', 'download', {'os': 'macOS'});"><img src="/img/macOS.svg" alt="Download for macOS" /></a>
 &nbsp;
 <a href="https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.6.3.exe" onClick="gtag('event', 'download', {'os': 'windows'});"><img src="/img/Windows.svg" alt="Download for Windows" /></a>
 </center>
@@ -193,9 +193,13 @@ Looking for <a href="https://activatebot.github.io">GPT 4 and chat GPT for iOS</
 
 ## Release notes
 
+## Version 2.6.4 - Mac Only [purchase 200 coffees here to help us renew our Windows certificate](https://buymeacoffee.com/clubdeck)
+
+* Fix various bugs
+
 ## Version 2.6.3
 
- * Hotfix for hallway bug
+* Hotfix for hallway bug
 
 ## Version 2.6.2
 
