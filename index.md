@@ -196,7 +196,12 @@ Looking for <a href="https://activatebot.github.io">GPT 4 and chat GPT for iOS</
 
 ## Release notes
 
-## Version 2.6.4 - Mac Only [purchase 200 coffees here to help us renew our Windows certificate](https://buymeacoffee.com/clubdeck)
+## Version 2.6.5 Mac & Windows (but no certificate for Windows: [purchase 200 coffees here to help us renew our Windows certificate](https://buymeacoffee.com/clubdeck))
+
+* Fix hallway bug that crashed certain conversations and got us several hundred angry inbound emails
+* Add the ability to create public rooms
+
+## Version 2.6.4 - Mac Only
 
 * Fix various bugs
 
