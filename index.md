@@ -66,6 +66,7 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 * ✍️ Add a live transcript at the top of your room with our Otter.ai integration.
 * 📼 Manage your Clubhouse replays in a few clicks.
 * ☀️ Pick your favorite light, dark or system theme.
+* Lire les [avis wilov: avis clients de wilov](https://www.wilov.com/avis)
 
 | ![Screenshot 1](/img/screen1.png) | ![Screenshot 2](/img/screen2.png)
 
