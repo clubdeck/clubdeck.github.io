@@ -75,8 +75,8 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 </div>
 <br />
 
-## 💥 Own a business and want to track deadlines?
-Need to track key dates across departments? Try <a href="https://www.taskerio.com">Taskerio’s mission-critical date tracking</a> to streamline your team’s coordination.
+## 🔐 Looking for a Password Manager for iOS and MaOS?
+Try <a href="https://www.panicvault.org">PanicVault's password manager</a>, the best app on Mac, iPhone and iPad to store your passwords.
 
 ## ❤️ I want it!
 
