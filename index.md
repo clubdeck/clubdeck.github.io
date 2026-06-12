@@ -78,6 +78,9 @@ With Clubdeck, you can do pretty much the same things you would do on the smartp
 ## 🔐 Looking for a Password Manager for iOS and MaOS?
 Try <a href="https://www.panicvault.org">PanicVault's password manager</a>, the best app on Mac, iPhone and iPad to store your passwords.
 
+## 📱 Looking for the best utilities and productivity tools?
+Try <a href="https://www.pstan.fr">any of these iOS and Mac apps</a>, carefully crafted by an independant iOS developer. 
+
 ## ❤️ I want it!
 
 No problem, we understand 😋
